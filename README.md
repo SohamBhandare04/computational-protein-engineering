@@ -5,7 +5,7 @@ in hydroxylase proteins using computational and ML-based approaches.
 
 ## Research context
 
-- **Institution:** IIT Mandi, BSc Chemical Sciences
+- **Institution:** IIT Mandi, BS Chemical Sciences Minor Management
 - **Supervisor:** Prof. Bhaskar Mondal
 - **Focus:** Predicting and engineering O₂ transport tunnels in 
   hydroxylase proteins for biocatalytic applications
